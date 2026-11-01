@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02187729-c6e6-4c72-92cd-70b98dd731dd" name="Changes" comment="1 задание ЛБ1" />
+    <list default="true" id="02187729-c6e6-4c72-92cd-70b98dd731dd" name="Changes" comment="1-5 завдвння ЛБ1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "nikol-afk"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nikol-afk/OO-.git",
+    "accountId": "c107ec72-5726-40df-9232-7a139faccb4a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -63,14 +75,109 @@
       <option name="project" value="LOCAL" />
       <updated>1793564736404</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1 задание ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793565502225</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793565502225</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1 задание ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793565840421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793565840421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1 завдвняя ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567755994</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567755994</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1 завдвняя ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567773878</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567773878</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567786945</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567786945</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567811396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567811396</updated>
+    </task>
+    <task id="LOCAL-00008" summary="1 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567823415</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567823415</updated>
+    </task>
+    <task id="LOCAL-00009" summary="1 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567836908</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567836908</updated>
+    </task>
+    <task id="LOCAL-00010" summary="1 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793567852095</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1793567852095</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1-5 завдвння ЛБ1">
+      <option name="closed" value="true" />
+      <created>1793568062107</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1793568062107</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="1-5 задання ЛБ1" />
     <MESSAGE value="1 задание ЛБ1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1 задание ЛБ1" />
+    <MESSAGE value="1 завдвняя ЛБ1" />
+    <MESSAGE value="1 завдвння ЛБ1" />
+    <MESSAGE value="1-5 завдвння ЛБ1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1-5 завдвння ЛБ1" />
   </component>
 </project>
